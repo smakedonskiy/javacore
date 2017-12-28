@@ -1,0 +1,6 @@
+numberA,expResult
+2,true
+7,false
+-19,false
+-80,true
+0,true

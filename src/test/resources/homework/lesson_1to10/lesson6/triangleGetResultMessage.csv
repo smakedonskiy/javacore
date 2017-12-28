@@ -1,0 +1,4 @@
+valueA,valueB,valueC,expResult
+3,4,5,This triangle is right-angled.
+2,3,5,This triangle is not right-angled.
+0,0,0,This triangle is not right-angled.

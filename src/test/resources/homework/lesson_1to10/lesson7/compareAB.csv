@@ -1,0 +1,3 @@
+numberA,numberB,expResult
+3,1,true
+-7,-2,false

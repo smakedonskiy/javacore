@@ -1,0 +1,4 @@
+numberA,numberB,expResult
+2,2,2 is equals 2
+5,-4,5 is bigger then -4
+3,7,7 is bigger then 3
